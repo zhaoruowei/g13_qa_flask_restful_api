@@ -11,7 +11,11 @@ Contributors:
     Yuting MA,
     Feiye Pan,
     Tianbao Zhang
+    
+    
 ![img.txt](/image/pptindex.png)
+
+
 ## About
 This mini project is a simple Q&A platform. Users can login and register, post your questions and comments.
 Feel free to post your thoughts in this platform.
