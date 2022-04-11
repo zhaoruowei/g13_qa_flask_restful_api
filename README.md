@@ -8,9 +8,9 @@ Version: v1
 
 Contributors: 
     [Ruowei Zhao](https://github.com/zhaoruowei),
-    [Yuting MA](),
-    [Feiye Pan](),
-    [Tianbao Zhang]()
+    Yuting MA,
+    Feiye Pan,
+    Tianbao Zhang
 ![img.txt](/image/pptindex.png)
 ## About
 This mini project is a simple Q&A platform. Users can login and register, post your questions and comments.
